@@ -13,3 +13,24 @@
 
 ### Link to Work:
 - not going to bother pushing the project work from the course out to GitHub.  I'll reserve that for when I make something unique that leverages what I've learned. 
+- Link to CSS cheatsheet: https://htmlcheatsheet.com/css/
+- Link to CSS Flexbox Cheatsheeet: https://darekkay.com/flexbox-cheatsheet/
+
+
+
+## Day 3 - December 30, 2022
+
+### Today's Progress:
+
+### Thoughts:
+
+### Link to Work:
+
+
+
+
+
+
+
+
+
