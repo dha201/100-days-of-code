@@ -22,8 +22,8 @@
 
 ## Today's Progress:
   (The Complete Developer's Guide" course)
-  ✅Flexbox
-  ✅CSS Transitions and Transforms
+  -✅Flexbox
+  -✅CSS Transitions and Transforms
   
 ### __What are the advantages of using flex ?__ 
     > The reason why you would want to use flexbox is to *lay out the collection of items in one direction or another*. when you lay out the items, you might want to use flexbox to control the spacing between the items, as well as the dimension of the items. 
