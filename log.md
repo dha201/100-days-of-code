@@ -21,6 +21,7 @@
 ## Day 3 - December 30, 2022
 
 ### Today's Progress:
+  - Flexbox
 
 ### Thoughts:
 
