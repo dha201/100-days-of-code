@@ -16,17 +16,35 @@
 - Link to CSS cheatsheet: https://htmlcheatsheet.com/css/
 - Link to CSS Flexbox Cheatsheeet: https://darekkay.com/flexbox-cheatsheet/
 
-<br>
+---
 
-## Day 3 - December 30, 2022
+# Day 3 - December 30, 2022
 
-### Today's Progress:
-  - Flexbox
+## Today's Progress:
+  (The Complete Developer's Guide" course)
+  ✅Flexbox
+  ✅CSS Transitions and Transforms
+  
+### __What are the advantages of using flex ?__ 
+    > The reason why you would want to use flexbox is to *lay out the collection of items in one direction or another*. when you lay out the items, you might want to use flexbox to control the spacing between the items, as well as the dimension of the items. 
+  
+### __What are the pros and cons of flexbox ?__
+    -Elements can be compressed and stretched according to specified rules, occupying the necessary space.
+    -Aligning vertically and horizontally, the baseline of the text works great.
+    -The location of elements in html is not critical. It can be changed in CSS. This is especially important for some aspects of responsive layout.
+    -Elements can be automatically lined up in several rows / columns, taking up all the space provided.
+    -Many languages in the world use right-to-left spelling rtl (right-to-left), in contrast to the usual ltr (left-to-right). Flexbox is adapted for this. It has a concept of beginning and end, not right and left. Those. in browsers with the rtl locale, all elements will be automatically arranged in reverse order.
+    -The syntax of CSS rules is very simple and is learned quite quickly.
+
 
 ### Thoughts:
+- [x] Practice css selector
+- Why use Flexbox over other layout methods like Grid?
 
-### Link to Work:
-
+### Link to Work/Resources:
+- [link for FLexbox cheatsheet](https://darekkay.com/flexbox-cheatsheet/)
+- [link for CSS Transitions and Transforms](https://thoughtbot.com/blog/transitions-and-transforms)
+- [A demo for how transitions and transform work](https://codepen.io/david1ha/pen/XWBdOwr)
 
 
 
