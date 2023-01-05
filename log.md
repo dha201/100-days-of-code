@@ -46,7 +46,16 @@
 - [link for CSS Transitions and Transforms](https://thoughtbot.com/blog/transitions-and-transforms)
 - [A demo for how transitions and transform work](https://codepen.io/david1ha/pen/XWBdOwr)
 
+# Day 4 - January 4, 2023
 
+## Today's Progress:
+  (The Complete Developer's Guide" course)<br>
+  ✅Bootstrap + excercies(Start-Up page) <br>
+  ✅Bootstrap Grid <br>
+  ✅How to create an email campaign landing page w/ Mailchimp
+  ✅How to publish your website online w/ Github
+### Thoughts:
+- So far, Bootstrap seems like a very useful libary, especially for creating a website in a timely manner. There are a lot of tools and ultities in there that I was able to test around in the project like Grid, Flex, Button and special hover before and after effects. However, tbh I still had a difficult time with figuring out how to align all the contents. I'm not sure if this was due to me missing some part from the turtorial or the new updated version of Bootstrap requires different methods to align some elements like a line breaker. Which, I had to include some extra ultilities and element that wasn't a part of the turtorial. Otherwise, everything went pretty smoothly, I was able to add some additional features, but nothing to brag about.
 
 
 
