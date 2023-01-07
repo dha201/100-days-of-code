@@ -46,6 +46,9 @@
 - [link for CSS Transitions and Transforms](https://thoughtbot.com/blog/transitions-and-transforms)
 - [A demo for how transitions and transform work](https://codepen.io/david1ha/pen/XWBdOwr)
 
+
+-----
+
 # Day 4 - January 4, 2023
 
 ## Today's Progress:
@@ -58,7 +61,32 @@
 - So far, Bootstrap seems like a very useful library, especially for creating a website in a timely manner. There are a lot of tools and utilities in there that I was able to test around in the project like Grid, Flex, Button and special hover before and after effects. However, tbh I still had a difficult time with figuring out how to align all the contents. I'm not sure if this was due to me missing some part from the tutorial or the new updated version of Bootstrap requires different methods to align some elements like a line breaker. Which, I had to include some extra utilities and element that wasn't a part of the tutorial. Otherwise, everything went pretty smoothly, I was able to add some additional features, but nothing to brag about.
 
 
+-----
 
+# Day 5- January 5-6, 2023
 
+## Today's Progress:
+  (The Complete Developer's Guide" course)<br>
+  ✅Personal Project (Landing page for a donut shop)
+### Thoughts:
+- In this project, I learned much more about how to use CSS and the grid/column features from bootstrap. As well as learning how to research and find solutions without having to ask anyone for help.
+- When runnning into a problem, I would first, search what I can find on google especially stackoverflow. If that wouldn't work, I would go onto websites that I know that has a similar layout as what I try to replicate. Then just inspect the codes from it, more like copy and paste, but it works.
+- Things I learned regarding coding knowledges:
+1. Use __(transform: translate();)__ to move an img on the plane
+2. How to hover over one element and affect a different element by 
+ 
+   >If the cube is directly inside the container:
+    #container:hover > #cube { background-color: yellow; }
+
+   >If cube is next to (after containers closing tag) the container:
+    #container:hover + #cube { background-color: yellow; }
+
+   >If the cube is somewhere inside the container:
+    #container:hover #cube { background-color: yellow; }
+
+   >If the cube is a sibling of the container:
+    #container:hover ~ #cube { background-color: yellow; }
+
+### Link to Work/Resources:
 
 
