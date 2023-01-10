@@ -89,4 +89,20 @@
 
 ### Link to Work/Resources:
 
+-----
+
+# Day 6- January 9, 2023
+
+## Today's Progress:
+  (The Complete Developer's Guide" course  20% -> 26% )<br>
+  ✅CSS Grid + Layout
+### Thoughts:
+This section seems pretty simple and straight forward. The practice example that was given in this section was lowkey difficult as first, but I slowly got the hang of it. 
+
+Things I learn today:
+- How to create columns and rows through the use of grid and its templates, as well as aligning items with align-items and justify-contents. 
+- Comparing Flexbox to the Grid system. It seems that grid is much more flexible and has better ultilities compare to flex. With grid, you can quickly create the layout and then place items into it. As well as aligning the contents much faster and more efficient compare to other methods. What better about it as well is the responsive factors that come from using it. 
+
+
+
 
