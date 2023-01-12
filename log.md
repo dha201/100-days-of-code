@@ -112,7 +112,7 @@ Things I learn today:
   ✅CSS Grid + Layout Project
 ### Thoughts:
 Trying to replicate the website within the project wasn't so bad as I thought it would be. However, I did run into a couple of problems such as:
-**#### Nav Bar**:
+#### Nav Bar:
 - How to get rid of the white space around the containers. 
 > The solution to this was setting the margin = 0 . By doing this, It will set all the containers margin to the default setting. 
 
@@ -120,10 +120,10 @@ Trying to replicate the website within the project wasn't so bad as I thought it
 - Also with creating the nav-bar, I discovered 2 things:
 - "@media only screen and (max-width: 600px)" allows you to create different layouts depending on the size of the viewport, but they can also be used to detect other things about the environment your site is running. The @media query, it is super helpful when it comes to making a responsive website, it's almost an essentials for any websites. The reason is that with this atrribute, you can reduce the dimension or switch device and the website would auto adjust to the dimension that you set to.
 -  "margin-left: auto;" allows you auto adjust the margin to the left of an element base on the width of the container.
-**#### Cover **:
-The body section wasn't so hard to replicate, but one new thing I learned was the unit "vh". This unit allows you to set the height automatically base on the viewport. So lets say if the height of the body is set to 100vh, this means that the body would show 100% of the screen size depending on the dimension. 
+#### Cover:
+-The body section wasn't so hard to replicate, but one new thing I learned was the unit "vh". This unit allows you to set the height automatically base on the viewport. So lets say if the height of the body is set to 100vh, this means that the body would show 100% of the screen size depending on the dimension. 
 
-**#### Blue Zone **:
+#### Blue Zone:
 This was definitely the hardest part of all. However, there are three biggest things that I took out of it
 1) {grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
     grid-gap: 20px;} With this 2 lines of codes, you can easily create a box layout within a container nicely. The best thing about it too is that it's responsive. 
