@@ -138,4 +138,17 @@ This was definitely the hardest part of all. However, there are three biggest th
 As you can see here, the width of the img is 100%, which means it would take up the entire space within the parent container. But the reason it is nicely stay within the black box is from the correct padding and margin that were created around it. So the img would adjust to the padding and margin instead of the entire width of the box. 
 
 
+-----
 
+# Day 9- January 12, 2023
+
+## Today's Progress:
+  (The Complete Developer's Guide" course  20% -> 26% )<br>
+  ✅CSS Grid + Layout Project
+### Thoughts:
+Things I learned:
+- Sticky nav bar
+> .sticky { position: fixed: ( keep in mind this might change the width of your container or element)
+            top: 0;
+            width:100%
+            }
